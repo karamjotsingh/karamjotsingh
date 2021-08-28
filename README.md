@@ -21,10 +21,12 @@
 [<img align="left" alt="Karamjot | Gmail" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />](mailto:karamjot23singh@gmail.com)
 [<img align="left" alt="Karamjot | Gmail" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />](https://twitter.com/karamjot_23)
 <br>
+<br>
 
 <p align="center">
   
   ![Karamjot's github stats](https://github-readme-stats.vercel.app/api?username=karamjotsingh&show_icons=true&hide_border=false)
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karamjotsingh)](https://github.com/anuraghazra/github-readme-stats)
   
 </p>
