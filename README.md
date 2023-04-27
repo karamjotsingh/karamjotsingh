@@ -12,7 +12,8 @@
 ## My Experiences 🙌🏻
 
 - [Contributor at Ortleius Open Source](https://ortelius.io/): Ortelius is an incubated project under [Continous Delivery Foundation](https://cd.foundation/). Ortelius simplifies the implementation of microservices. By providing a central catalog of services with their deployment specs, application teams can easily consume and deploy services across cluster. Ortelius tracks application versions based on service updates and maps their service dependencies eliminating confusion and guess work.
-- [Software Development Engineer at Mercer Mettl](https://mettl.com/) (July 2021 - Present)
+- [Senior Software Engineer - Systems at Freshworks](https://www.freshworks.com/) (August 2022 - Present)
+- [Software Development Engineer at Mercer Mettl](https://mettl.com/) (July 2021 - July 2022)
 - [Systems Engineer at Tata Consultancy Services](https://www.tcs.com/) (June 2019 - June 2021)
 
 ## Connect with me 📌
